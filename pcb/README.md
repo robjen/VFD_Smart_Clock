@@ -6,11 +6,11 @@ all of them have been sent off for manufacture at http://dirtypcbs.com and work
 
 simple layout for easy hand soldering including everything in sockets
 
-I switched convention on the IV25 and started callin gthem type 1 and type 3 to match teh IV26 tubes the PCB mask layer reflects that even if the PCB schematic does not
+I switched convention on the IV25 and started calling them type 1 and type 3 to match the IV26 tubes the PCB mask layer reflects that even if the PCB schematic does not
 
 # Tubes ....
 
-well they are getting harder to find but ebay is your friend, also use the 'international' .com site as I find the UK site sometimes hides possible sellers that will still ship to here and quote prices in dollers
+well they are getting harder to find but ebay is your friend, also use the 'international' .com site as I find the UK site sometimes hides possible sellers that will still ship to here and quote prices in dollars
 
 # Components 
 
@@ -18,7 +18,7 @@ the main IC ... you can use that maxim part but its pricey or a perfect substitu
 
 WS2812b again ebay cheap and eay to find in reels ready to solder, that and 1 capacitor are surface mount (on the IV4/17 board) easy enough with a steady hand
 
-the DC-DC module was again an ebay thing (can you spot a trend here!)  there are loads of far east manufactures doing a module that should be about £1 including post per module.  you could use one module to power more than 1 PCB with a fly-lead thats up to you, keeping 1 module per PCB means you can mix and match antyhting you want. 
+the DC-DC module was again an ebay thing (can you spot a trend here!)  there are loads of far east manufactures doing a module that should be about £1 including post per module.  you could use one module to power more than 1 PCB with a fly-lead thats up to you, keeping 1 module per PCB means you can mix and match anything you want. 
 
 
 # BIG SOLDER TIP
