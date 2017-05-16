@@ -2,6 +2,10 @@
 
 A Series of 'socket' designs and firmware running on ESP8266 for IoT smart clock
 
+first draft of working firmware :
+https://www.youtube.com/watch?v=jQWC35hEyko
+
+
 Sockets are 1-4 digits in all sorts of size based on:
 * 4 digits IV4/17 16 segment tube
 * 1 digit 5x7 IV26 7 point tubes type 1 (fully independant dots) and type 3  (1-2-1-2-1 )
